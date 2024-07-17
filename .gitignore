@@ -163,3 +163,5 @@ cython_debug/
 config.txt
 *.pdf
 *.docx
+.DS_Store
+.idea
